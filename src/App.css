@@ -40,3 +40,7 @@ html, body, #root {
     flex: 1;
   }
   
+
+  .some-class {
+  background-image: url('./assets/git.svg');
+}
